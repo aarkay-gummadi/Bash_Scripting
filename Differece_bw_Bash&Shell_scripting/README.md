@@ -1,5 +1,6 @@
 Difference b/w Bash script and Shell script
 -------------------------------------------
+![Preview](Images/sh3.png)
 
 ### Bash script
 * The bash script is a script that is specifically created for Bash.

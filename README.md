@@ -2,6 +2,7 @@ Bash Scripting
 --------------
 
 * Bash scripting is a powerful tool for automating tasks and processes in Linux. Let’s dive into the details:
+![Preview](Images/bash1.png)
 
 ### What is a Bash Shell?
 * The Linux command line is provided by a program called the shell.
