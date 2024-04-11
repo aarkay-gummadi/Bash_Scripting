@@ -30,7 +30,6 @@ echo "My name: $my_name"
 ```
 ![Preview](Images/sh1.png)
 
-
 * Shell script
 ```sh
 #! bin/sh
