@@ -22,7 +22,7 @@ Difference b/w Bash script and Shell script
 
 
 ### Examples
-* Bash
+* Bash script
 ```bash
 #! bin/bash 
 my_name="aarkay"
@@ -30,7 +30,8 @@ echo "My name: $my_name"
 ```
 ![Preview](Images/sh1.png)
 
-* Shell
+
+* Shell script
 ```sh
 #! bin/sh
 my_name="aarkay"
